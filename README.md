@@ -1,4 +1,4 @@
-h1 align="center">Kenzz <img src="https://www.mediafire.com/view/5ptg13w7etebsff/ppp.png/file" width="40px" alt=""><br></h1>
+<h1 align="center">Kenzz <img src="https://www.mediafire.com/view/5ptg13w7etebsff/ppp.png/file" width="40px" alt=""><br></h1>
 <p align="center">
 <img src="https://www.mediafire.com/view/5ptg13w7etebsff/ppp.png/file" />
 </p>
@@ -10,11 +10,8 @@ h1 align="center">Kenzz <img src="https://www.mediafire.com/view/5ptg13w7etebsff
 - 🗣️ I am bocah epep
 
 - 🔭 I am Not programmer
-
  
-
 - 😎 I am like Wibu
-
 </p>
 
 -------
