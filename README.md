@@ -1,4 +1,4 @@
-# h1 align="center">Kenzz <img src="https://www.mediafire.com/view/5ptg13w7etebsff/ppp.png/file" width="40px" alt=""><br></h1>
+h1 align="center">Kenzz <img src="https://www.mediafire.com/view/5ptg13w7etebsff/ppp.png/file" width="40px" alt=""><br></h1>
 
 <p align="center">
 
